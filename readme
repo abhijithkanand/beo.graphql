@@ -1,0 +1,17 @@
+beo.mongo
+
+Installation
+Clone the repository
+Navigate to the project directory: cd beo.graphql
+Install the dependencies: npm install
+
+Running the Application
+npm run start
+
+Access the GraphQL Playground:
+Once the server is running, you can access the GraphQL Playground by opening in http://localhost:4000/graphql
+
+
+
+
+
